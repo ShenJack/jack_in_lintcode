@@ -3,5 +3,8 @@ project(jack_in_lintcode)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
-add_executable(jack_in_lintcode ${SOURCE_FILES})
+add_executable(sqrtx sqrtx.cpp )
+add_executable(search-insert-position search-insert-position.cpp)
+add_executable(search-a-2d-matrix search-a-2d-matrix.cpp)
+add_executable(first-position-of-target first-position-of-target.cpp)
+
