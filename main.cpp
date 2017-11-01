@@ -1,4 +1,7 @@
 #include <iostream>
+#include <vector>
+#include <map>
+#include <queue>
 /*
  *LintCode Template
  * */
