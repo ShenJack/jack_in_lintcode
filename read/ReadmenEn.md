@@ -1,9 +1,13 @@
+Android Developer with 1 year of experience in designing application architecture.
+
+
+
 #Cooperating Skills
 -Experienced in Git and Jenkins
 
 #Professional Skills
 
--
+- 
 
 #Android Experience
 - redesign the main fragment with mvp architecture and a triple-layers base-extends class structure
